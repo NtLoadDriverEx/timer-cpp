@@ -1,4 +1,4 @@
-```
+```cpp
 #include "timer.hpp"
 
 // can be defined in function scope as long as it has a static lifetime
